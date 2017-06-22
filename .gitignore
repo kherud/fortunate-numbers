@@ -1,0 +1,9 @@
+out/*
+
+data/*
+
+!data/.gitkeep
+.idea/*
+
+FortunateNumber.iml
+
